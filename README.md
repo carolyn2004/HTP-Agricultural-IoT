@@ -13,12 +13,15 @@
   
  # Screenshots of AWS Services 💻
  - SNS email when factors are not at its optimum level
+ 
  ![image](https://user-images.githubusercontent.com/100062535/227541136-37df2e6d-fec3-4343-8435-56203240465d.png) 
  
  - IoT analytics used to monitor incoming messages when connecting the IoT device
+ 
  ![image](https://user-images.githubusercontent.com/100062535/227541802-c334f1fd-2fdf-43d8-9849-27d21423ce5b.png)
  
  - Example of cloud metrics being used to monitor lambda function (humidity too high). We are able to observe whether lambda function has been invoked etc.
+ 
 ![image](https://user-images.githubusercontent.com/100062535/227541458-ec8ee317-ba9c-499f-9681-a741a3dfafdb.png)
 
 
