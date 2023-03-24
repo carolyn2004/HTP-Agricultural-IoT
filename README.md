@@ -10,7 +10,16 @@
   ![image](https://user-images.githubusercontent.com/100062535/227540366-e5367b8a-fb33-41fd-9c1b-28f459275932.png)
   ![image](https://user-images.githubusercontent.com/100062535/227540388-9e708b1a-785b-45b8-bf59-3bc9b31704cb.png)
   ![image](https://user-images.githubusercontent.com/100062535/227540409-01d2f840-081e-44d7-ba17-42286711312d.png)
-
+  
+ # Screenshots of AWS Services 💻
+ - SNS email when factors are not at its optimum level
+ ![image](https://user-images.githubusercontent.com/100062535/227541136-37df2e6d-fec3-4343-8435-56203240465d.png) 
+ 
+ - IoT analytics used to monitor incoming messages when connecting the IoT device
+ ![image](https://user-images.githubusercontent.com/100062535/227541802-c334f1fd-2fdf-43d8-9849-27d21423ce5b.png)
+ 
+ - Example of cloud metrics being used to monitor lambda function (humidity too high). We are able to observe whether lambda function has been invoked etc.
+![image](https://user-images.githubusercontent.com/100062535/227541458-ec8ee317-ba9c-499f-9681-a741a3dfafdb.png)
 
 
 
